@@ -28,4 +28,3 @@ public class Sauron extends Combatente {
         alvo.defender(dano);
     }
 }
-
